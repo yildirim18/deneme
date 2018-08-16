@@ -1,0 +1,25 @@
+﻿{"araclar":[
+    { 
+      "arac_id":1,
+      "arac_adi":"opel",
+      "arac_aciklamasi":"arac detaylari", 
+      "arac_model":2000, 
+      "arac_renk":"beyaz"
+    },
+    { 
+      "arac_id":2,
+      "arac_adi":"ford",
+      "arac_aciklamasi":"arac detaylari", 
+      "arac_model":2010, 
+      "arac_renk":"kirmizi"
+    },
+    { 
+      "arac_id":3,
+      "arac_adi":"renault",
+      "arac_aciklamasi":"arac detaylari", 
+      "arac_model":2005, 
+      "arac_renk":"yesil"
+    }
+   
+]}
+
